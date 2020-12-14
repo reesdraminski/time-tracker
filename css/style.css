@@ -1,0 +1,28 @@
+html {
+    font-family: sans-serif;
+}
+
+button {
+    background: white;
+    color: black;
+
+    border: 1px solid black;
+    border-radius: 4px;
+
+    padding: .75em;
+}
+
+select {
+    border: 1px solid black;
+    border-radius: 4px;
+
+    padding: .65em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-bold {
+    font-weight: bold;
+}
