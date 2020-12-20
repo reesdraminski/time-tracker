@@ -16,7 +16,7 @@ select {
     border: 1px solid black;
     border-radius: 4px;
 
-    padding: .65em;
+    padding: .75em 5px .75em 5px;
 }
 
 .text-center {
@@ -25,4 +25,13 @@ select {
 
 .text-bold {
     font-weight: bold;
+}
+
+#sessions h3 {
+    margin-bottom: 0;
+}
+
+#sessionsList {
+    margin-top: 5px;
+    line-height: 1.5;
 }
